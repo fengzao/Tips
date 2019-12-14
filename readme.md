@@ -1,4 +1,6 @@
 
+- [常用英文缩写](./shortening/readme.md)
+
 ### 1 COMMON OPPOSITE WORD : 常用英文反义词
 
 | 名词                                | 动词                           | 形容词                              |
