@@ -1,9 +1,9 @@
 
-### 英文'对仗'词
+### Common opposite word : 常用英文反义词
 
 | 名词                                | 动词                           | 形容词                              |
-| ----------------------------------- | ------------------------------ | ----------------------------------- |
-| expense/income:支出/收入            | ccept/reduce:接受/拒绝         | above/below:在……上/在……下           |
+| :----------------------------------- | :------------------------------ | :----------------------------------- |
+| expense/income:支出/收入            | accept/reduce:接受/拒绝         | above/below:在……上/在……下           |
 | entrance/exit:入口/出口             | across/along:横过/沿着         | after/before:之后/之前              |
 | fail/pass:不及格/通过               | agree/disagree:同意/不同意     | again/once:再一次/一次              |
 | fail/win:输/赢                      | allow/forbid:允许—/禁止        | agreement/disagreement:一致/不一致  |
