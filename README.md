@@ -6,7 +6,7 @@
 | expense/income:支出/收入            | accept/reduce:接受/拒绝         | above/below:在……上/在……下           |
 | entrance/exit:入口/出口             | across/along:横过/沿着         | after/before:之后/之前              |
 | fail/pass:不及格/通过               | agree/disagree:同意/不同意     | again/once:再一次/一次              |
-| fail/win:输/赢                      | allow/forbid:允许—/禁止        | agreement/disagreement:一致/不一致  |
+| fail/win:输/赢                      | allow/forbid:允许/禁止        | agreement/disagreement:一致/不一致  |
 | failure/success:失败/成功           | answer/ask:回答/询问           | ahead/behind:在前面/在后面          |
 | false/true:假/真                    | arrive/leave:到达/离开         | all/part:全部/部分                  |
 | future/past:未来/过去               | attack/defend:进攻/防守        | almost/hardly:几乎/几乎不           |
