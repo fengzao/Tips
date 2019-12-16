@@ -1,6 +1,7 @@
 ### 1 导航
 
-- [常用英文缩写](./shortening/readme.md)   [日期操作大全](./ops/date/readme.md)
+- [常用英文缩写](./shortening/readme.md)  
+- [日期操作大全](./ops/date/readme.md)
 
 ### 2 COMMON OPPOSITE WORD : 常用英文反义词
 
