@@ -44,6 +44,7 @@
 |                                     | pack/unpack:打包/解开包裹      | hard/soft:硬的/软的                 |
 |                                     | move/stop:移动/停止            | helpful/useless:有用的/无用的       |
 |                                     | pull/push:拉/推                | huge/small:巨大的/小的              |
+|                                     | push/pop: 压入/弹出          |                                    |
 |                                     | receive/send:收到/送出         | left/right:左/右                    |
 |                                     | rise/sink:上升/下沉            | high/low:高的/低的                  |
 |                                     | turnOff/turnOn:关掉/打开       | hit/miss:击中/未击中                |
@@ -55,4 +56,4 @@
 |                                     | insert/delete: 插入/删除       | right/wrong:正确的/错误的           |
 |                                     | lock/unlock: 锁/释放锁         | strong/weak:强壮的/虚弱的           |
 |                                     | show/hide: 展示/隐藏           | max/min：最大/最小                  |
-|                                     | start/stop: 开始/停止          |                                     |
+|                                     | start/stop: 开始/停止          |                                    |
