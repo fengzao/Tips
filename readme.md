@@ -22,7 +22,7 @@
 | previous/next:上一个/下一个         | open/close:打开/关闭           | beautiful/ugly:美丽的/丑出发        |
 | peace/war:和平/战争                 | connect/disconnect:连接/分离   | best/worst:最好/最坏                |
 | src/dest:源/目标                    | combine/separate:使结合/使分开 | big/little:大的/小的                |
-|                                     | come/go:来/去                  | bitter/sweet:苦的/甜的              |
+| prefix/suffix:前缀/后缀             | come/go:来/去                  | bitter/sweet:苦的/甜的              |
 |                                     | create/destroy:创造/毁坏       | black/white:黑的/白的               |
 |                                     | damage/repair:毁坏/修理        | bottom/surface:底/表面              |
 |                                     | dislike/like:不喜欢/喜欢       | busy/free:忙碌的/空闲的             |
